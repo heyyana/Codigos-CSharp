@@ -1,2 +1,2 @@
-# C-digos-C-
+# Codigos-CSharp
 ## Projetos realizados durante a aula de programação.
